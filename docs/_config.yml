@@ -18,7 +18,7 @@ email: wforget@design.inf.shizuoka.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
   本プロジェクトは，日本学術振興会「課題設定による先導的人文学・社会科学研究推進事業（実社会対応プログラム）」の助成を受けて運営されています．
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://forgetting-web.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Account settings
 #twitter_username: jekyllrb
