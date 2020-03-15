@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  JSAI2020 企画一般セッションに採択されました
 date:   2020-02-26 22:00:00 +0900
 categories: jekyll update
