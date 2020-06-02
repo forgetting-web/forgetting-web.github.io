@@ -1,0 +1,10 @@
+---
+layout: single
+title:  JSAI2020 企画一般セッションの内容概要について
+date:   2020-06-02 09:00:00 +0900
+categories: jekyll update
+---
+[第34回人工知能学会全国大会（JSAI2020）](https://www.ai-gakkai.or.jp/jsai2020/)にて開催予定である，本プロジェクト関連の企画セッションについて，下記特設ページに内容概要を記しました．ご興味・ご関心のある方は，ご覧ください．
+
+### 特設ページ
+https://forgetting-web.github.io/jsai2020-ks/
